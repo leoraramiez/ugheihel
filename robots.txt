@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://agheiliik.geekabouttown.com/sitemap.xml
